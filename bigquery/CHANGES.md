@@ -1,6 +1,13 @@
 # Changes
 
 
+## [1.36.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.35.0...bigquery/v1.36.0) (2022-07-14)
+
+
+### Features
+
+* **bigquery/storage/managedwriter/adapt:** support packed field option ([#6312](https://github.com/googleapis/google-cloud-go/issues/6312)) ([fc3417b](https://github.com/googleapis/google-cloud-go/commit/fc3417be70cd01a0044ec934c5c6426ea833d90c))
+
 ## [1.35.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.34.1...bigquery/v1.35.0) (2022-07-07)
 
 
