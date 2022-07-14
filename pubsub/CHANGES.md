@@ -1,5 +1,12 @@
 # Changes
 
+## [1.24.0](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.23.1...pubsub/v1.24.0) (2022-07-14)
+
+
+### Features
+
+* **pubsub/pstest:** subscription message ordering ([#6257](https://github.com/googleapis/google-cloud-go/issues/6257)) ([71bd273](https://github.com/googleapis/google-cloud-go/commit/71bd273b8a77ed22c41a1284813ee59eb6820bda))
+
 ## [1.23.1](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.23.0...pubsub/v1.23.1) (2022-06-30)
 
 
